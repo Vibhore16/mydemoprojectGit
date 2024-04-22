@@ -1,5 +1,5 @@
 customhost = "employee.cbpwr6xzqw4f.ap-south-1.rds.amazonaws.com"
-customuser = "vibhore"
+customuser = "admin"
 custompass = "#Vibs0908"
 customdb = "employee"
 custombucket = "vibhorebucket"
